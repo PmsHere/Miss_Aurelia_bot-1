@@ -12,8 +12,8 @@ Can be found on telegram as [Miss_Aurelia_bot](https://t.me/Miss_Aurelia_bot).
 
 The Support group can be reached out to at [AureliaSupport](https://t.me/AureliaBot_Support), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PmsHere/Miss_Aurelia_bot)
-
 ## Credits
 The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
 This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
+
+### Bot Is working fine at TG Source Will publish soon...!
